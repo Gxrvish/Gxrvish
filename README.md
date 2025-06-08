@@ -1,7 +1,7 @@
 <!-- Your Name - GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A [Your Role] from [Your Country]</h3>
+<h1 align="center">Hi there, I'm Garvish 👋</h1>
+<h3 align="center">A Software Developer from India</h3>
 
 <p align="center">
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
@@ -13,11 +13,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project or Job Title]**
-- 🌱 I’m currently learning **[Technologies/Frameworks]**
-- 💬 Ask me about **[Topics you know well]**
-- 📫 How to reach me: **you@example.com**
-- ⚡ Fun fact: **[Interesting fact or hobby]**
+- 🔭 I’m currently working on **Inscord**
+- 🌱 I’m currently learning **Spring**
+- 💬 Ask me about **DSA, React, Optimization and Scalable Systems**
+- 📫 How to reach me: **garvish@gmail.com**
 
 ---
 
@@ -37,26 +36,28 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gxrvish&show_icons=true&theme=radical" alt="Gxrvish" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gxrvish&theme=radical" />
 </p>
 
 ---
 
 ### 🧠 Top Skills
 
-- ✅ [Skill 1]
-- ✅ [Skill 2]
-- ✅ [Skill 3]
+- ✅ Javascript
+- ✅ Python
+- ✅ Java
+- ✅ Databases
+- ✅ DSA
 
 ---
 
 ### 🔗 Let's Connect
 
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Portfolio: [My Website](garvish.me)
+- LinkedIn: [Gxrvish](https://www.linkedin.com/in/gxrvish/)
+- Twitter: [@gxrvish](https://twitter.com/gxrvish)
 
 ---
 
-⭐️ From [@yourusername](https://github.com/yourusername)
+⭐️ From [@gxrvish](https://github.com/Gxrvish)
