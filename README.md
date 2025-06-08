@@ -53,7 +53,7 @@
 
 ### 🔗 Let's Connect
 
-- Portfolio: [My Website](https://www.garvish.me)
+- Portfolio: [My Website](https://garvish.me)
 - LinkedIn: [Gxrvish](https://www.linkedin.com/in/gxrvish/)
 - Twitter: [@gxrvish](https://twitter.com/gxrvish)
 
