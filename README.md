@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **Inscord**
 - 🌱 I’m currently learning **Spring**
 - 💬 Ask me about **DSA, React, Optimization and Scalable Systems**
-- 📫 How to reach me: **garvish@gmail.com**
+- 📫 How to reach me: **garvish67@gmail.com**
 
 ---
 
