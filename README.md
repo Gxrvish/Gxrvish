@@ -1,4 +1,4 @@
-<!-- Your Name - GitHub Profile README -->
+<!-- Garvish Panchal - GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm Garvish 👋</h1>
 <h3 align="center">A Software Developer from India</h3>
